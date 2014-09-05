@@ -1,0 +1,17 @@
+{
+  "name": "uploadserver",
+  "version": "0.0.0",
+  "description": "Upload server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "James Weston",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^6.7.1",
+    "hoek": "^2.4.1",
+    "joi": "^4.6.2",
+    "node-uuid": "^1.4.1"
+  }
+}
